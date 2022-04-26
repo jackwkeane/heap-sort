@@ -1,3 +1,6 @@
+# Grade: -/100.0
+Completed Spring of 2021 as a part of Lehigh University's CSE 017: Programming and Data Structures. 
+
 # Project-4
 
 This assignment is due Wednesday, May 12th 2021 at 11:59 pm. Upload or push all the associated files to your repository before then. Try to push all final files to the "main" branch.
