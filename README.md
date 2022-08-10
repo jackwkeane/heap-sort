@@ -20,3 +20,5 @@ Completed Spring of 2021 as a part of Lehigh University's CSE 017: Programming a
      c. reversedList(): contains the same data as sortedList in descending order. To obtain reversedList, clone sortedList and reverse the cloned list using the method java.util.Collections.reverse(). Do not forget to reverse reversedList after each sorting algorithm.
 
 5\. Call each sorting method on the three data sets generated in step 4 and record the number of iterations for each sorting algorithm on each data set. Then display the results in a tabular form.
+  
+6\. Include a multi-line comment inside the class Testing. The comment must include a brief discussion of the results. Discuss first the performance of each sorting algorithm on the different data sets. Then compare the performance of the sorting algorithms to each other.
