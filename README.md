@@ -1,10 +1,8 @@
 # Grade: 100.0/100.0
 Completed Spring of 2021 as a part of Lehigh University's CSE 017: Programming and Data Structures. 
 
-# Project-4
-
-This assignment is due Wednesday, May 12th 2021 at 11:59 pm. Upload or push all the associated files to your repository before then. Try to push all final files to the "main" branch.
-
-You will want to push your files to your repository often; if you need help with your code, the easiest way for us to view and test it is by cloning your repository and giving you feedback through the pull request function. This will make working with you much easier! I have updated the Git tutorial to provide multiple methods of uploading to Github. See the tutorial here: https://github.com/CSE17-Houria-Oudghiri/Tutorial.
-
-If you have any questions, don't hesitate to ask on piazza or during office hours. If you have any questions related to grading, please contact me at jzt320@lehigh.edu.
+## Project Description
+1\. Create the class Heap with a third constructor that takes a parameter data of type ArrayList<E> and builds the heap from data.
+2\. Create a class Sort that contains the definition of static methods for the sorting algorithms covered in class (selection sort, insertion sort, bubble sort, merge sort, quick sort, heap sort) and ALA 10.
+3\. All sorting methods should calculate the number of iterations and store it in a static variable inside the class Sort.
+4\. Create a class Testing for the test program. Create three array lists of type Integer and size 10,000 for the data sets with the specification below:
